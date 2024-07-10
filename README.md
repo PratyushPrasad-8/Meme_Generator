@@ -15,7 +15,6 @@ Meme Generator_ is a modern memes displayer app. Created with the latest technol
 
 
 **Backend:**  
-Powered by FireBase, ensuring fast and reliable data handling.  
 - *API Integration:* Utilizes the API to pull over all the memes from reddite and display it over our app.
 - *Material Design Components:* Leverage Material Components for Android to ensure consistent UI/UX design throughout the app, including Material Toolbar for navigation and action items.
 - *Image Loading:* Utilize Glide library for efficient image loading, caching, and displaying within RecyclerViews and user profiles.
