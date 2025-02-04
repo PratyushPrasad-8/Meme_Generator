@@ -41,11 +41,12 @@ Thank you for visiting our project! We hope you enjoy using Clips and Clicks as 
 😊🫰🔆
 
 # *Random Screen Shots*
-![WhatsApp Image 2024-07-10 at 23 39 16_398c59c2](https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/01f052c1-30e1-401a-97c9-6e24e6b6479d)
-![WhatsApp Image 2024-07-10 at 23 39 17_8763f648](https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/a5fbb86f-1324-4070-9f1f-de3174d87453)
-![WhatsApp Image 2024-07-10 at 23 39 17_cde6c218](https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/736d9c2a-74c5-47df-a9fe-7b6d462bbbda)
-
-
+<img src="https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/01f052c1-30e1-401a-97c9-6e24e6b6479d" height=300>
+<img src="https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/a5fbb86f-1324-4070-9f1f-de3174d87453" height=300>
+<img src="https://github.com/PratyushPrasad-8/Meme_Generator/assets/154315809/736d9c2a-74c5-47df-a9fe-7b6d462bbbda" height=300>
+<br>
+<br>
+<br>
 
 
 
